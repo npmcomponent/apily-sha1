@@ -1,0 +1,13 @@
+{
+  "name": "apily-sha1",
+  "description": "Component SHA1",
+  "version": "0.0.1",
+  "keywords": [
+    "sha1",
+    "base64",
+    "crypto",
+    "hex"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
